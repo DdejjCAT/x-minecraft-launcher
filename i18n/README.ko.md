@@ -109,8 +109,7 @@ brew install --cask --no-quarantine voxelum/xmcl
 **[Marmur2020](https://github.com/Marmur2020)**
 완전한 우크라이나어 번역
 
-**[vanja-san](https://github.com/vanja-san)**
-러시아어 지원
+**[vanja-san](https://github.com/vanja-san)** 및 **[DdejjCAT](https://github.com/DdejjCAT)** 러시아어 번역
 
 ### 📦 패키지 유지
 
