@@ -99,7 +99,7 @@ i18n локализация әзірлеушісі үшін [Локализац�
 
 [Marmur2020](https://github.com/Marmur2020) & [BANSAFAn](https://github.com/BANSAFAn), толығымен украин тіліне аударылды!
 
-[vanja-san](https://github.com/vanja-san), орыс тілімен қамтамасыз етілді!
+[vanja-san](https://github.com/vanja-san) және [DdejjCAT](https://github.com/DdejjCAT) оларды орыс тіліне аударғаны үшін
 
 [lukechu10](https://github.com/lukechu10) & [HoldYourWaffle](https://github.com/HoldYourWaffle) маған Launcher ядросында көмектеседі.
 
