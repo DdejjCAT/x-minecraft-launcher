@@ -93,6 +93,8 @@ winget install CI010.XMinecraftLauncher
 
 [vanja-san](https://github.com/vanja-san), перевел на русский язык!
 
+[DdejjCAT](https://github.com/DdejjCAT), подправил перевод и добавил перевод на некоторые новые функции на Русский язык!
+
 [lukechu10](https://github.com/lukechu10) и [HoldYourWaffle](https://github.com/HoldYourWaffle) помогают мне в ядре программы запуска.
 
 [laolarou726](https://github.com/laolarou726), который очень помог в разработке панели запуска.
