@@ -93,7 +93,7 @@ winget install CI010.XMinecraftLauncher
 
 [Marmur2020](https://github.com/Marmur2020) & [BANSAFAn](https://github.com/BANSAFAn), ウクライナ語の完全翻訳！
 
-[vanjaさん](https://github.com/vanja-san)、ロシア語提供！
+[ヴァンジャさん](https://github.com/vanja-san) および [DdejjCAT](https://github.com/DdejjCAT) ロシア語への翻訳のために
 
 [lukechu10](https://github.com/lukechu10)と[HoldYourWaffle](https://github.com/HoldYourWaffle)がランチャーのコアで助けてくれた。
 
