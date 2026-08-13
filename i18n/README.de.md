@@ -92,7 +92,7 @@ Für i18n-Lokalisierungsentwickler, bitte folgen Sie [Erste Schritte mit der Lok
 
 [Marmur2020](https://github.com/Marmur2020) & [BANSAFAn](https://github.com/BANSAFAn), vollständige Übersetzung ins Ukrainische!
 
-[vanja-san](https://github.com/vanja-san), Bereitstellung der russischen Sprache!
+[vanja-san](https://github.com/vanja-san), & [DdejjCAT](https://github.com/DdejjCAT), vollständige Übersetzung ins Russische!
 
 [lukechu10](https://github.com/lukechu10) & [HoldYourWaffle](https://github.com/HoldYourWaffle) helfen mir beim Launcher-Kern.
 
