@@ -109,8 +109,7 @@ Közösségi támogatás és moderáció az RU/UK régiókban · Ukrán fordít�
 **[Marmur2020](https://github.com/Marmur2020)**
 Teljes ukrán nyelvű fordítás
 
-**[vanja-san](https://github.com/vanja-san)**
-Orosz nyelvi támogatás
+**[vanja-san](https://github.com/vanja-san)** és **[DdejjCAT](https://github.com/DdejjCAT)** az orosz nyelvre történő fordításért
 
 ## 📦 Csomagkarbantartók
 
