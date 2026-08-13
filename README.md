@@ -170,6 +170,9 @@ Complete Ukrainian language translation
 **[vanja-san](https://github.com/vanja-san)**
 Russian language support
 
+**[DdejjCAT](https://github.com/DdejjCAT)**
+Complete Russian language translation
+
 ## 📦 Package Maintainers
 
 **[VolodiaKraplich](https://github.com/VolodiaKraplich)**
