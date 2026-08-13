@@ -106,9 +106,9 @@ Para desarrolladores de i18n y localización, por favor sigue la [Guía de inici
 
 [0xc0000142](https://github.com/0xc0000142), manteniendo winget.
 
-[Marmur2020](https://github.com/Marmur2020) & [BANSAFAn](https://github.com/BANSAFAn), ¡tradujeron completamente al idioma ucraniano!
+[Marmur2020](https://github.com/Marmur2020) & [BANSAFAn](https://github.com/BANSAFAn), ¡están completamente traducidos al Ucraniano!
 
-[vanja-san](https://github.com/vanja-san), ¡proporcionó el idioma ruso!
+[vanja-san] (https://github.com/vanja-san), [DdejjCAT] (https://github.com/DdejjCAT), por su traducción al ruso
 
 [lukechu10](https://github.com/lukechu10) & [HoldYourWaffle](https://github.com/HoldYourWaffle) me ayudan en el núcleo del Launcher.
 
